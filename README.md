@@ -3,12 +3,12 @@
 
 
 
-Hi there 👋 I'm Punith Yc
 
-A self taught Data science enthusiast from india
+
+ #####                                                              A self taught Data science enthusiast from india
 
  
- 👨‍💻 All about me is
+ 👨‍💻 All about me is<br>
  🔭 I’m currently learning Data analytics,Python, Machine Learning,Statistics,Mysql,Power BI,Alteryx <br>
  🛩️ I’m Exploring Data Science,Deep Learning,NLP & Artificial Intelligence
 <!--
