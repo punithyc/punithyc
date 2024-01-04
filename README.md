@@ -5,7 +5,7 @@
 
 
 
-###                                                *_A self taught Data science enthusiast from india_*
+### :A self taught Data science enthusiast from india:
 
  
  👨‍💻 All about me is<br>
