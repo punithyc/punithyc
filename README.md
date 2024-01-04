@@ -1,4 +1,4 @@
-![Navy Blue Geometric Technology LinkedIn Banner (1)](https://github.com/punithyc/punithyc/assets/123263654/1d88f0e2-ea4f-4e57-b48a-3ad589432418)
+![Navy Blue Geometric Technology LinkedIn Banner (1)](https://github.com/punithyc/punithyc/assets/123263654/1d88f0e2-ea4f-4e57-b48a-3ad589432418)<br>
 
 
 
