@@ -1,4 +1,6 @@
-#                                                Hi there 👋 I'm Punith Yc
+#               Adding a new image to readme.md("C:\Users\punith yc\Downloads\Navy Blue Geometric Technology LinkedIn Banner (1).png")                                
+
+Hi there 👋 I'm Punith Yc
 
 A self taught Data science enthusiast from india
 
