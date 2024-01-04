@@ -11,7 +11,7 @@
  👨‍💻 All about me is<br>
  🔭 I’m currently learning Data analytics,Python, Machine Learning,Statistics,Mysql,Power BI,Alteryx <br>
  🛩️ I’m Exploring Data Science,Deep Learning,NLP & Artificial Intelligence<br>
- 💬 Ask me about my_list = [$~~$ "Python",    "SQL",    "Statistics",    "Power BI",    "Data Analytics" ,    "Alteryx" ]<br>
+ 💬 Ask me about my_list = [ "Python",    "SQL",    "Statistics",    "Power BI",    "Data Analytics" ,    "Alteryx" ]<br>
 <!--
 **punithyc/punithyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
