@@ -1,7 +1,11 @@
-##                                                   Hi there 👋 I'm Punith Yc
+#                                                Hi there 👋 I'm Punith Yc
 
- 🔭 I’m currently working on :__*Data Science__*
+A self taught Data science enthusiast from india
 
+ 
+ 👨‍💻 All about me is
+ 🔭 I’m currently learning Data analytics,Python, Machine Learning,Statistics,Mysql,Power BI,Alteryx <br>
+ 🛩️ I’m Exploring Data Science,Deep Learning,NLP & Artificial Intelligence
 <!--
 **punithyc/punithyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
