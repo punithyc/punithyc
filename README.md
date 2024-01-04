@@ -5,7 +5,7 @@
 
 
 
-### :A self taught Data science enthusiast from india:
+<h1 align="center">A self taught Data science enthusiast from india</h1>
 
  
  👨‍💻 All about me is<br>
