@@ -14,7 +14,7 @@
  
  🛩️ I’m Exploring Data Science,Deep Learning,NLP & Artificial Intelligence<br>
  
- 💬 Ask me about ```my_list = [ "SQL", "Statistics", "Power BI", "Data Analytics" , "Alteryx" ,  "Python",]```<br>
+ 💬 Ask me about ```my_list = [ "SQL", "Statistics", "Power BI", "Data Analytics" , "Alteryx" , "Python",]```<br>
  
  📫 How to reach me :  [linkedin](www.linkedin.com/in/punith-yc)
 <!--
