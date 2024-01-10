@@ -36,6 +36,12 @@
 
 ## Languages and Tools 🛠️
 
+
+
+
+## Achivements
+* HackerRank SQL gold 5 star Badge
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punithyc)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=punithyc&show_icons=true)  
