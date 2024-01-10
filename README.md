@@ -17,17 +17,17 @@
 - ⚡ Fun fact  Explore 
 
 ## My Certifications 📜 🎓 ✔️
-[HackerRank Advanced Skill Assessment](https://www.hackerrank.com/certificates/d68282519075) -  HackerRank<br>
+[HackerRank Advanced Skill Assessment](https://www.hackerrank.com/certificates/d68282519075) - by  HackerRank<br>
 
-[ Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/certificate/X5VJVTQD2SXT) - IBM<br>
+[ Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/certificate/X5VJVTQD2SXT) - by IBM<br>
 
-[Data Visualization with Advance Excel](https://www.coursera.org/account/accomplishments/certificate/K7VQVJNJFY6T) - PWC<br>
+[Data Visualization with Advance Excel](https://www.coursera.org/account/accomplishments/certificate/K7VQVJNJFY6T) - by PWC<br>
 
-[Data Visualization with Power Bi](https://www.udemy.com/certificate/UC-b8093fed-facb-4bb9-b9a2-7eb9507fee1a/) - Udemy<br>
+[Data Visualization with Power Bi](https://www.udemy.com/certificate/UC-b8093fed-facb-4bb9-b9a2-7eb9507fee1a/) - by Udemy<br>
 
-[Pandas By Kaggkle](https://www.kaggle.com/learn/certification/ycpunithguest/pandas) - Kaggle<br>
+[Pandas By Kaggkle](https://www.kaggle.com/learn/certification/ycpunithguest/pandas) - by Kaggle<br>
 
-[NumPy](https://olympus.mygreatlearning.com/courses/50633/certificate)&[Matplotlib](https://olympus.mygreatlearning.com/courses/56749/certificate) - Great Learning
+[NumPy](https://olympus.mygreatlearning.com/courses/50633/certificate) & [Matplotlib](https://olympus.mygreatlearning.com/courses/56749/certificate) - by Great Learning
 
 
 
