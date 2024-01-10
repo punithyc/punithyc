@@ -44,7 +44,7 @@
 
 ## Achivements 🏆
 
-* HackerRank SQL gold 5 star Badge
+* *__HackerRank SQL gold 5 star Badge__*
 
 ## Github Stats 📊
 
