@@ -30,7 +30,7 @@
 [NumPy](https://olympus.mygreatlearning.com/courses/50633/certificate) & [Matplotlib](https://olympus.mygreatlearning.com/courses/56749/certificate) - by Great Learning
 
 ## Connect with me 🔗
-src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bio.link/punithyc)  
+[<imgsrc='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bio.link/punithyc)  
 
 
 
