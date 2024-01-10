@@ -1,8 +1,8 @@
-### Hi there 👋, Punith YC
-#### A self taught data science enthusiast from India
+
 ![A self taught data science enthusiast from India](![Navy Blue Geometric Technology LinkedIn Banner (2)](https://github.com/punithyc/punithyc/assets/123263654/bdfcf3da-69ca-4988-8dba-aec574c0bb72))
 
-
+ ########*__A self taught data science enthusiast from India__*
+- 👨‍💻 All about me is at[My website](https://bio.link/punithyc)
 - 🌱 I’m currently learning Python, Machine learning 
 - 💬 Ask me about My list= [ "Python", "MySQL", "Statistics", "Power Bi", "Data Analytics" ,"Excel"] 
 - 📫 How to reach me: www.linkedin.com/in/punith-yc 
