@@ -17,6 +17,20 @@
 - ⚡ Fun fact  Explore 
 
 ## My Certifications 📜 🎓 ✔️
-[HackerRank Advanced Skill Assessment](https://www.hackerrank.com/certificates/d68282519075) - by HackerRank
+[HackerRank Advanced Skill Assessment](https://www.hackerrank.com/certificates/d68282519075) -  HackerRank<br>
+[ Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/certificate/X5VJVTQD2SXT) - IBM<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/punithyc)  
