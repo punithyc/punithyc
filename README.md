@@ -18,7 +18,10 @@
 
 ## My Certifications 📜 🎓 ✔️
 [HackerRank Advanced Skill Assessment](https://www.hackerrank.com/certificates/d68282519075) -  HackerRank<br>
+
 [ Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/certificate/X5VJVTQD2SXT) - IBM<br>
+
+[Data Visualization with Advance Excel](https://www.coursera.org/account/accomplishments/certificate/K7VQVJNJFY6T) - PWC<br>
 
 
 
