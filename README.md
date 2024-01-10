@@ -39,8 +39,6 @@
 
 
 
-## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=mysql,py,azure,react,vue,flutter&perline=15)](https://skillicons.dev)
 
 
 ## Achivements 🏆
