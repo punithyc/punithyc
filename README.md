@@ -40,7 +40,7 @@
 
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=mysqlL,gcp,azure,react,vue,flutter&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,gcp,azure,react,vue,flutter&perline=15)](https://skillicons.dev)
 
 
 ## Achivements 🏆
