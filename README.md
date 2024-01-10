@@ -1,4 +1,4 @@
-<!--
+
 **punithyc/punithyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Navy Blue Geometric Technology LinkedIn Banner (2)](https://github.com/punithyc/punithyc/assets/123263654/bdfcf3da-69ca-4988-8dba-aec574c0bb72)
