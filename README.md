@@ -1,6 +1,6 @@
 
 
-![Navy Blue Geometric Technology LinkedIn Banner (2)](https://github.com/punithyc/punithyc/assets/123263654/bdfcf3da-69ca-4988-8dba-aec574c0bb72)
+![Navy Blue Geometric Technology LinkedIn Banner (2)](https://github.com/punithyc/punithyc/assets/123263654/bdfcf3da-69ca-4988-8dba-aec574c0bb72))
 
  ### A self taught data science enthusiast from India
  
