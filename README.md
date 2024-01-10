@@ -1,3 +1,5 @@
+<!--
+**punithyc/punithyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Navy Blue Geometric Technology LinkedIn Banner (2)](https://github.com/punithyc/punithyc/assets/123263654/bdfcf3da-69ca-4988-8dba-aec574c0bb72)
 
@@ -9,33 +11,12 @@
 
 - 🛩️ Exploring Data Science, NLP, Deep Learning & Artificial Intelligence
  
-- 💬 Ask me about My list= [ "Python", "MySQL", "Statistics", "Power Bi", "Data Analytics" ,"Excel"]
+- 💬 Ask me about My list = [ "Python", "MySQL", "Statistics", "Power Bi", "Data Analytics" ,"Excel"]
  
 - 📫 How to reach me : [linkedin](www.linkedin.com/in/punith-yc)/[GitHub](https://github.com/punithyc)
  
-- ⚡ Fun fact: Explore 
+- ⚡ Fun fact : Explore 
 
-
-
-
-
-
-
-
-
-
-<h1 align="center">A self taught Data science enthusiast from india</h1>
-
- 
- 👨‍💻 All about me is<br>
- 
- 🔭 I’m currently learning Data analytics,Python, Machine Learning,Statistics,Mysql,Power BI,Alteryx <br>
- 
- 🛩️ I’m Exploring Data Science,Deep Learning,NLP & Artificial Intelligence<br>
- 
- 💬 Ask me about ```my_list = [ "SQL", "Statistics", "Power BI", "Data Analytics" , "Alteryx" , "Python",]```<br>
- 
- 📫 How to reach me :  [linkedin](www.linkedin.com/in/punith-yc)
 <!--
 **punithyc/punithyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
