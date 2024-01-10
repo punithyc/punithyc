@@ -12,8 +12,11 @@
  
 - 💬 Ask me about My list = [ "Python", "MySQL", "Statistics", "Power Bi", "Data Analytics" ,"Excel"]
  
-- 📫 How to reach me : [linkedin](www.linkedin.com/in/punith-yc) / [GitHub](https://github.com/punithyc)
+- 📫 How to reach me  [linkedin](www.linkedin.com/in/punith-yc) / [GitHub](https://github.com/punithyc)
  
-- ⚡ Fun fact : Explore 
+- ⚡ Fun fact  Explore 
+
+## My Certifications 📜 🎓 ✔️
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/punithyc)  
