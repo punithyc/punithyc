@@ -11,9 +11,9 @@
  
 - 💬 Ask me about My list= [ "Python", "MySQL", "Statistics", "Power Bi", "Data Analytics" ,"Excel"]
  
-- 📫 How to reach me:[linkedin](www.linkedin.com/in/punith-yc)/[GitHub](https://github.com/punithyc)
+- 📫 How to reach me : [linkedin](www.linkedin.com/in/punith-yc)/[GitHub](https://github.com/punithyc)
  
-- ⚡ Fun fact: Upskill 
+- ⚡ Fun fact: Explore 
 
 
 
