@@ -16,7 +16,7 @@
  
 - 💬 Ask me about My list = ```[ "Python", "MySQL", "Statistics", "Power Bi", "Data Analytics" ,"Excel" ,"EDA" ]```
  
-- 📫 How to reach me  [linkedin](www.linkedin.com/in/punith-yc) / [GitHub](https://github.com/punithyc)
+- 📫 How to reach me  [linkedin](https://www.linkedin.com/in/punith-yc-2240b6267/) / [GitHub](https://github.com/punithyc)
  
 - ⚡ Fun fact  Explore 
 
