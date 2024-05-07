@@ -8,7 +8,7 @@
 
 
 
-- 👨‍💻 All about me is at  [My website](https://bio.link/punithyc)
+- 👨‍💻 All about me is at  [My website](https://linktr.ee/punithyc8688)
  
 - 🌱 I’m currently learning Python, Machine learning
 
