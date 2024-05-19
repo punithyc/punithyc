@@ -10,11 +10,11 @@
 
 - 👨‍💻 All about me is at  [My website](https://linktr.ee/punithyc8688)
  
-- 🌱 I’m currently learning Python, Machine learning
+- 🌱 I’m currently learning  NLP, Deep Learning
 
-- 🛩️ Exploring Data Science, NLP, Deep Learning & Artificial Intelligence
+- 🛩️ Exploring Data Science & Artificial Intelligence
  
-- 💬 Ask me about My list = ```[ "Python", "MySQL", "Statistics", "Power Bi", "Data Analytics" ,"Excel" ,"EDA" ]```
+- 💬 Ask me about My list = ```[ "Python", "MySQL", "Statistics", "Power Bi", "Data Analytics" ,"Excel" ,"EDA" ,"ML"]```
  
 - 📫 How to reach me  [linkedin](https://www.linkedin.com/in/punith-yc-2240b6267/) / [GitHub](https://github.com/punithyc)
  
