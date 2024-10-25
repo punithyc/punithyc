@@ -10,11 +10,11 @@
 
 - 👨‍💻 All about me is at  [My website](https://linktr.ee/punithyc8688)
  
-- 🌱 I’m currently learning  NLP, Deep Learning
+- 🌱 I’m currently learning  LLMs, Deep Learning
 
 - 🛩️ Exploring Data Science & Artificial Intelligence
  
-- 💬 Ask me about My list = ```["Data Analytics" ,"Data Science"]```
+- 💬 Ask me about My list = ```["Data Analytics" ,"Data Science" ,"NLP"]```
  
 - 📫 How to reach me  [linkedin](https://www.linkedin.com/in/punith-yc-2240b6267/) / [GitHub](https://github.com/punithyc)
  
