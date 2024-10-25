@@ -14,7 +14,7 @@
 
 - 🛩️ Exploring Data Science & Artificial Intelligence
  
-- 💬 Ask me about My list = ```[ "Python", "MySQL", "Statistics", "Power Bi", "Data Analytics" ,"Excel" ,"EDA" ,"ML"]```
+- 💬 Ask me about My list = ```["Data Analytics" ,"Data Science"]```
  
 - 📫 How to reach me  [linkedin](https://www.linkedin.com/in/punith-yc-2240b6267/) / [GitHub](https://github.com/punithyc)
  
