@@ -10,7 +10,7 @@
 
 - 👨‍💻 All about me is at  [My website](https://linktr.ee/punithyc8688)
  
-- 🌱 I’m currently learning  LLMs, Deep Learning
+- 🌱 I’m currently learning  LLMs, GenAI
 
 - 🛩️ Exploring Data Science & Artificial Intelligence
  
